@@ -1,0 +1,22 @@
+.card-header {
+    background-color: #004085; 
+}
+
+.alert-primary {
+    background-color: #cce5ff; 
+    border-color: #b8daff;
+}
+
+.alert-success {
+    background-color: #d4edda; 
+    border-color: #c3e6cb;
+}
+
+.input-group input {
+    border: 2px solid #ffc107; 
+}
+
+.input-area button {
+    background-color: #ffc107; 
+    border-color: #ffc107;
+}
